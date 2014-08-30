@@ -1,0 +1,28 @@
+{
+  "name": "sofa-elastic",
+  "version": "0.0.1",
+  "description": "Plugin based on Sofa-ODM for indexing and searching document with Couchbase and ElasticSearch",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ichiriac/sofa-elastic.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "couchbase",
+    "sofa-odm",
+    "fulltext"
+  ],
+  "author": "Ioan CHIRIAC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichiriac/sofa-elastic/issues"
+  },
+  "homepage": "https://github.com/ichiriac/sofa-elastic",
+  "dependencies": {
+    "sofa-odm": "^0.1.3"
+  }
+}
